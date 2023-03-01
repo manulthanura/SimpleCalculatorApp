@@ -9,6 +9,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//Create main class
+
 public class MainActivity extends AppCompatActivity {
 
     EditText no1 , no2;
